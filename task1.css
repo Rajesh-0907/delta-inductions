@@ -42,3 +42,16 @@ body{
    outline:none;
  }
 
+  @media only screen and (max-width: 828px) {
+
+      #output{
+        width: 500px;
+       }
+
+       .buttons{
+         width: 500px;
+
+
+       }
+
+      }
